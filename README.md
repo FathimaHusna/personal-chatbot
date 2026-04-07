@@ -1,0 +1,1 @@
+I developed a personal AI chatbot that answers questions based on my resume PDF. The system extracts resume data dynamically and uses a language model to generate responses. I also implemented secure API key management using environment variables, demonstrating practical AI integration with real-world data
